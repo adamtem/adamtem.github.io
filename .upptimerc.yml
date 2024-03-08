@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: WILLADAM BOT
+    url: http://dec28c28-198d-4d24-b83c-f4aa20d662bd-00-1v5umdg3igut.spock.replit.dev/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
